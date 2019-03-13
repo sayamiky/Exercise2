@@ -1,0 +1,41 @@
+body{
+	background-color: #f5f5f5;
+	background-image: url(Untitled-2.png)
+}
+.kotak{
+	width: 350px;
+	background: black;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 60px 80px;
+}
+ 
+.masukan{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 160%;
+	padding: 20px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+.tombol{
+	background-color: rgb(252, 143, 0); 
+	border: none;
+	color: white;
+	padding: 15px 38px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
+
+.tombol2{
+	background-color: rgb(252, 143, 0); 
+	border: none;
+	color: white;
+	padding: 15px 167px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
